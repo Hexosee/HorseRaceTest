@@ -61,7 +61,6 @@
     {"id":{"name":"snd_horse","path":"sounds/snd_horse/snd_horse.yy",},},
     {"id":{"name":"snd_kerplunk","path":"sounds/snd_kerplunk/snd_kerplunk.yy",},},
     {"id":{"name":"snd_victory","path":"sounds/snd_victory/snd_victory.yy",},},
-    {"id":{"name":"spr_hell","path":"sprites/spr_hell/spr_hell.yy",},},
     {"id":{"name":"spr_horse","path":"sprites/spr_horse/spr_horse.yy",},},
     {"id":{"name":"spr_horsecollision","path":"sprites/spr_horsecollision/spr_horsecollision.yy",},},
     {"id":{"name":"spr_horsegate","path":"sprites/spr_horsegate/spr_horsegate.yy",},},
